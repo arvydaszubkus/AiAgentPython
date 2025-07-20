@@ -6,6 +6,7 @@ Features
 
 Installation
 
+``bash
 Clone the Repository:
 git clone https://github.com/arvydaszubkus/AiAgentPython.git
 cd AiAgentPython
